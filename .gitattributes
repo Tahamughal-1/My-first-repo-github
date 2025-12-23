@@ -1,2 +1,214 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Official Mas Oyama Website</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+
+    <header class="top-bar">
+        <div class="center-text">Official Mas Oyama Website</div>
+        <div class="right-actions">
+        </div>
+    </header>
+
+    <nav class="navbar">
+        <div class="logo">
+            <img src="fevison.avif" alt="Mas Oyama Logo">
+            <div class="logo-text">
+                <strong>Masutatsu Oyama</strong><br>
+                Kyokushin Kaikan
+            </div>
+        </div>
+        <ul class="nav-links">
+            <li><a href="https//www.google.com" class="active">Home</a></li>
+            <li><a href="#">News</a></li>
+            <li><a href="#">Donate</a></li>
+            <li><a href="#">About Us</a></li>
+            <li><a href="#">Honbu Dojo</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section class="hero">
+        
+    </section>
+
+<section class="legacy-section">
+    <div class="container">
+        <h2>Protection of the Legacy of <br> Sosai Mas Oyama</h2>
+        <p class="description">
+            Preserving the legacy of Sosai Mas Oyama, this platform is dedicated to protecting his rights and safeguarding the authenticity of his teachings and materials. From trademark protection and the historic Honbu Dojo to the Kiwami Bito philosophy, global supporter network, event listings, and exclusive merchandise, we are committed to honoring Sosai's vision while supporting the Kyokushin community worldwide.
+        </p>
+    </div>
+</section>
+
+<section class="grid-section">
+    <div class="grid-item">1</div>
+    <div class="grid-item">2</div>
+    <div class="grid-item">3</div>
+</section>
+<section class="grid-section">
+    <div class="grid-item">
+        <span class="card-number">1</span>
+        <h3>Protection of Sosai <br> Mas Oyama</h3>
+        <p>We protect Sosai Mas Oyama's photos, materials, and teachings from unauthorized use and plagiarism to keep Kyokushin authentic and respectful to his legacy.</p>
+        <button class="button">Learn more</button>
+    </div>
+
+    <div class="grid-item">
+        <span class="card-number">2</span>
+        <h3>Official Booking <br> Page</h3>
+        <p>The only official place to book training sessions, seminars, and visits to the Honbu Dojo, ensuring a true Kyokushin experience.</p>
+        <button class="button" style="background-color: chocolate;width: 100;height: 50;">Book now</button>
+    </div>
+
+    <div class="grid-item">
+        <span class="card-number">3</span>
+        <h3>About <br> Us</h3>
+        <p>Meet Kyokushin practitioners from around the world. See their stories, passion, and dedication to the art of Kyokushin karate.</p>
+        <button class="button">Learn more</button>
+    </div>
+</section>
+<section class="bottom-grid">
+    <div class="grid-container">
+        <div class="grid-item card-4">
+            <span class="card-number">4</span>
+            <h3>Support Honbu <br> Dojo</h3>
+            <p>Help the Honbu Dojo and Mas Oyama Kyokushinkaikan team continue their work and honor Sosai's vision by supporting our efforts.</p>
+            <button class="button">Support now</button>
+        </div>
+
+        <div class="grid-item card-6">
+            <span class="card-number">6</span>
+            <h3>Official <br> Merchandise</h3>
+            <p>Shop for official Kyokushin merchandise to proudly represent Sosai Mas Oyama's legacy and the Kyokushin spirit.</p>
+            <button class="button">Shop now</button>
+        </div>
+    </div>
+</section>
+<section class="news-section">
+    <div class="news-container">
+        <h2 class="news-title">Latest news</h2>
+        
+        <div class="news-grid">
+            <div class="news-card">
+                <div class="news-header">
+                    <img src="fevison.avif" alt="Logo" class="news-logo">
+                    <h4>Official Announcement</h4>
+                    <p class="sub-heading">Introduction to the Honbu Committee and the Legal IP Compliance Framework</p>
+                </div>
+                <div class="news-footer">
+                    <span class="news-date">Jul 28</span>
+                    <h3 class="news-heading">Introduction to the Honbu Committee and the Legal IP...</h3>
+                </div>
+            </div>
+
+            <div class="news-card">
+                <div class="news-header">
+                    <img src="fevison.avif" alt="Logo" class="news-logo">
+                    <h4>Official Statement</h4>
+                    <p class="sub-heading">Unauthorized Use and Piracy of Sosai Mas Oyama's Legacy</p>
+                </div>
+                <div class="news-footer">
+                    <span class="news-date">Jul 20</span>
+                    <h3 class="news-heading heading-orange">Regarding the Unauthorized Use and Piracy of Sosai...</h3>
+                </div>
+            </div>
+
+            <div class="news-card">
+                <div class="news-header">
+                    <img src="fevison.avif" alt="Logo" class="news-logo">
+                    <h4>Official Ban Note</h4>
+                    <p class="sub-heading">Pembinaan Mental Kyokushin Karate in Indonesia</p>
+                </div>
+                <div class="news-footer">
+                    <span class="news-date">Jul 11</span>
+                    <h3 class="news-heading">Official Ban Notice</h3>
+                </div>
+            </div>
+
+            <div class="news-card">
+                <div class="news-header">
+                    <img src="fevison.avif" alt="Logo" class="news-logo">
+                    <h4 class="small-text">MAS OYAMA KYOKUSHIN-KAIKAN</h4>
+                    <h4 class="bold-text">OFFICIAL CLARIFICATION</h4>
+                </div>
+                <div class="news-footer">
+                    <span class="news-date">Apr 21</span>
+                    <h3 class="news-heading">Official Clarification</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="about-container">
+    <div class="about-content">
+        <div class="about-text">
+            <h2>About Us</h2>
+            <p>
+                Mas Oyama Kyokushinkaikan is managed by Sosai Mas Oyama's family to protect his legacy and teachings. 
+                Dedicated to preserving the authenticity of Kyokushin karate, we safeguard his rights, materials, and vision. 
+                This site offers an official hub for supporting his work, connecting practitioners, and celebrating Sosai's enduring impact.
+            </p>
+            <button class="button">Learn more</button>
+        </div>
+
+        <div class="about-image">
+            <img src="image1.avif" alt="Kyokushin Karate Building">
+        </div>
+    </div>
+</section>
+<section class="wisdom-section">
+    <div class="wisdom-container">
+        <h2 class="wisdom-title">Wisdom by Mas Oyama</h2>
+        
+        <div class="wisdom-grid">
+            <div class="wisdom-card card-tall" style="background-image: url('image\ 2.avif');">
+                <div class="wisdom-overlay">
+                    <span class="wisdom-num">01</span>
+                    <p>One becomes a beginner after one thousand days of training...</p>
+                </div>
+            </div>
+
+            <div class="wisdom-card card-short" style="background-image: url('image3.avif');">
+                <div class="wisdom-overlay">
+                    <span class="wisdom-num">02</span>
+                    <p>Keep your head bowed but aim high, keep your mouth shut, your heart and mind open...</p>
+                </div>
+            </div>
+
+            <div class="wisdom-card card-tall" style="background-image: url('image4.avif');">
+                <div class="wisdom-overlay">
+                    <span class="wisdom-num">03</span>
+                    <p>The process of pursuing the mastery of karate is the way of life itself.</p>
+                </div>
+            </div>
+
+            <div class="wisdom-card card-tall" style="background-image: url('image4.avif');">
+                <div class="wisdom-overlay">
+                    <span class="wisdom-num">04</span>
+                    <p>To lose money is a small thing. To lose faith a great thing. To lose courage is the greatest lose of oneself.</p>
+                </div>
+            </div>
+
+            <div class="wisdom-card card-tall" style="background-image: url('image5.avif');">
+                <div class="wisdom-overlay">
+                    <span class="wisdom-num">05</span>
+                    <p>Courage, faith and determination are more important in the final victory than skill or knowledge.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="read-more-wrapper">
+            <button class="btn-circle">READ MORE</button>
+        </div>
+    </div>
+</section>
+</body>
+</html>
