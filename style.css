@@ -17,34 +17,6 @@
     font-size: 14px;
 }
 
-.right-actions {
-    position: absolute;
-    right: 50px;
-    display: flex;
-    align-items: center;
-    gap: 20px;
-}
-
-.login-btn {
-    background: #fff;
-    border: none;
-    padding: 5px 15px;
-    border-radius: 5px;
-    cursor: pointer;
-    font-weight: bold;
-    display: flex;
-    align-items: center;
-    gap: 5px;
-}
-
-.lang-selector {
-    display: flex;
-    align-items: center;
-    gap: 5px;
-    cursor: pointer;
-}
-
-
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -617,4 +589,5 @@ p {
 @media (max-width: 900px) {
     .wisdom-grid { grid-template-columns: 1fr 1fr; }
     .card-short { margin-top: 0; }
+
 }
